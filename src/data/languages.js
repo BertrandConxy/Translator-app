@@ -1,6 +1,6 @@
 const languages = [
   {
-    code: 'symb',
+    code: 'SYMB',
     name: 'Select the language',
   },
   {

@@ -12,7 +12,7 @@ const translate = new Translate({
 export const getLanguagesList = (req, res) => {
   res.render('index', {
     languageSymbols: languages,
-    translation: 'translation will be displayed here..',
+    translation: 'Translation will be displayed here..',
     error: null,
   })
 }
@@ -23,7 +23,7 @@ export const translateText = async (req, res) => {
   if (text.length === 0 || targetLanguage === null) {
     res.render('index', {
       languageSymbols: languages,
-      translation: 'translation will be displayed here..',
+      translation: null,
       error: 'Please input text and select language',
     })
   }
@@ -39,7 +39,7 @@ export const translateText = async (req, res) => {
   } catch (error) {
     res.render('index', {
       languageSymbols: languages,
-      translation: 'translation will be displayed here..',
+      translation: null,
       error: error,
     })
     return 0
