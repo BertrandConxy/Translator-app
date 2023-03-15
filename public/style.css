@@ -11,8 +11,6 @@ body {
   justify-content: space-between;
 }
 
-
-
 .card {
   color: rgb(211, 211, 211);
   background-color: rgba(0, 0, 0, 0.8);
@@ -60,6 +58,18 @@ body {
   display: flex;
   flex-flow: column;
   margin-bottom: 1rem;
+}
+
+.form__text-area {
+  height: 200px;
+  width: 397px;
+}
+
+.form__selector {
+  outline: none;
+  border: 2px solid #ededed;
+  padding: 0.6rem;
+  border-radius: 4px;
 }
 
 .form__control > label {
