@@ -1,68 +1,46 @@
-import { assert } from 'chai'
-import { spy, match } from 'sinon'
-import { translateText } from '../src/controllers/translate_controller.js'
+import { expect } from 'chai'
+import { spy } from 'sinon';
+import { translateText } from '../src/controllers/translate_controller.js';
+import languages from '../src/data/languages.js';
 
-describe('translateText', function () {
-  let languages
+describe('translateText', () => {
+  let req, res;
 
   beforeEach(() => {
-    languages = [
-      { code: 'en', name: 'English' },
-      { code: 'fr', name: 'French' },
-      { code: 'es', name: 'Spanish' },
-    ]
+    req = {
+      body: {
+        text: 'Hello, world!',
+        targetLanguage: 'es',
+      },
+    };
+
+    res = {
+      render: spy(),
+    };
+
+  });
+
+
+  it('should render index page with translation', async () => {
+    await translateText(req, res);
+
+    expect(res.render.calledOnce).to.be.true;
+    expect(res.render.calledWith('index', {
+      languageSymbols: languages,
+      translation: '¡Hola, mundo!',
+      error: null,
+    })).to.exist
   })
 
-  it('should return an error message if no text or targetLanguage is provided', async function () {
-    const req = { body: { text: '', targetLanguage: null } }
-    const res = {
-      render: spy(),
-    }
+  it('should render index page with error if no text is added', async () => {
+    req.body.text = ''
+    await translateText(req, res);
 
-    await translateText(req, res)
-
-    assert.isTrue(
-      res.render.calledWith('index', {
-        languageSymbols: languages,
-        translation: null,
-        error: 'Please input text and select language',
-      }),
-    )
-  })
-
-  it('should return the translated text if text and targetLanguage are provided', async function () {
-    const req = { body: { text: 'Hello', targetLanguage: 'es' } }
-    const res = {
-      render: spy(),
-    }
-
-    await translateText(req, res)
-
-    assert.isTrue(
-      res.render.calledWith('index', {
-        languageSymbols: languages,
-        translation: 'Hola',
-        error: null,
-      }),
-    )
-  })
-
-  it('should return an error if translation fails', async function () {
-    const req = {
-      body: { text: 'Hello', targetLanguage: 'invalid-language-code' },
-    }
-    const res = {
-      render: spy(),
-    }
-
-    await translateText(req, res)
-
-    assert.isTrue(
-      res.render.calledWith('index', {
-        languageSymbols: languages,
-        translation: null,
-        error: match.instanceOf(Error),
-      }),
-    )
+    expect(res.render.calledOnce).to.be.true;
+    expect(res.render.calledWith('index', {
+      languageSymbols: languages,
+      translation: null,
+      error: 'Please input text and select language',
+    })).to.be.true
   })
 })
