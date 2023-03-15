@@ -20,8 +20,8 @@ export const getLanguagesList = (req, res) => {
 export const translateText = async (req, res) => {
   const { text, targetLanguage } = req.body
 
-  if (text.length === 0 || targetLanguage === null) {
-    res.render('index', {
+  if (!text || !targetLanguage) {
+    return res.render('index', {
       languageSymbols: languages,
       translation: null,
       error: 'Please input text and select language',
@@ -29,19 +29,17 @@ export const translateText = async (req, res) => {
   }
 
   try {
-    let [response] = await translate.translate(text, targetLanguage)
-    res.render('index', {
+    const [translation] = await translate.translate(text, targetLanguage)
+    return res.render('index', {
       languageSymbols: languages,
-      translation: response,
+      translation,
       error: null,
     })
-    return response
   } catch (error) {
-    res.render('index', {
+    return res.render('index', {
       languageSymbols: languages,
       translation: null,
-      error: error,
+      error,
     })
-    return 0
   }
 }
