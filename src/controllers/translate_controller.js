@@ -45,13 +45,3 @@ export const translateText = async (req, res) => {
     return 0
   }
 }
-
-const detectLanguage = async (text) => {
-  try {
-    let response = await translate.detect(text)
-    return response[0].language
-  } catch (error) {
-    console.log(`Error at detectLanguage --> ${error}`)
-    return 0
-  }
-}
