@@ -4,7 +4,6 @@ import languages from '../data/languages.js'
 const Translate = v2.Translate
 
 const translate = new Translate({
-  credentials: process.env.CREDENTIALS,
   projectId: process.env.PROJECTID,
   key: process.env.TRANSLATE_API_KEY,
 })

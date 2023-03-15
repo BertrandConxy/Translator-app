@@ -1,8 +1,8 @@
-![](https://img.shields.io/badge/Reader-blue)
+![](https://img.shields.io/badge/Translator-blue)
 
-# Image to text converter
+# Translator App
 
-> Image to text converter is web app that helps to parse the image and extracts texts in it. It then displays the texts in UI so that you can copy them. It is built with nodejs and uses tesseract.js package.
+> This is a web app that allows users to translate texts from one language to another. It has support for almost all languages and it uses [Google Cloud translate api](https://cloud.google.com/translate/docs/apis)
 
 <br/>
 
@@ -30,6 +30,11 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 - A text editor(preferably Visual Studio Code)
+#### Get cloud translate api key
+- Create a new Google Cloud Project
+- get the project name or id
+- enable Google Cloud Translate API
+- get the api key
 
 ### Install
 
@@ -40,15 +45,22 @@ To get a local copy up and running follow these simple example steps.
 #### Clone this repository
 
 ```bash
-$ git clone https://github.com/mugishasam123/image-to-text-converter
+$ git clone https://github.com/mugishasam123/Translator-app
 .git
-$ cd image-to-text-converter
+$ cd Translator-app
 ```
+
+
+#### Environment variables
+ Environment variables used in the app is PROJECTID and TRANSLATE_API_KEY .
+- Create the `.env` file
+- Assign the cloud project id(or name) to the PROJECTID variable
+- Assign the cloud translate api to the TRANSLATE_API_KEY variable 
 #### Run project
 
 ```bash
 $ npm install
-$ npm run serve
+$ npm run dev
 ```
 
 #### Run Tests
@@ -73,7 +85,7 @@ $ npm run test
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/mugishasam123/image-to-text-converter/issues).
+Feel free to check the [issues page](https://github.com/mugishasam123/Translator-app/issues).
 
 <br>
 
