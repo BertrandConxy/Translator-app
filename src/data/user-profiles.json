@@ -1,104 +1,104 @@
 [
     {
       "name": "Mugisha Samuel",
-      "picture": "link",
+      "picture": "https://asset.cloudinary.com/dpwbjykbw/ff5bac7d558508cc1dc130c40708d1fd",
       "role":"Software Engineer", 
-      "bio":"",
+      "bio":"A multi-skilled Software engineer with hands-on experience in developing, and confounding tech startups (B2B & Customer-centric) by bringing together the vision, strategy, and execution in a totally unstructured and resource-constrained environment.",
       "location": "Rwanda",
       "projects": [
         {
-            "project-name":"React Todo-list",
+            "projectName":"React Todo-list",
             "youtube":"link",
             "github":"https://github.com/mugishasam123/Todolist",
             "description":"Todo list is an app that allows you to track all of your daily activities by setting up activities,editing and removing them",
             "technologies":["Javascript", "Tailwind", "Vite"]
         },
         {
-            "project-name":"React Quiz App",
+            "projectName":"React Quiz App",
             "youtube":"link",
             "github":"https://github.com/mugishasam123/simple-quiz-app",
             "description":"Quiz app is an app that allows you to play a game of answering multiple choice questions and provides your scores at the end",
             "technologies":["Javascript", "Tailwind", "Vite"]
         },
         {
-            "project-name":"React Calculator",
+            "projectName":"React Calculator",
             "youtube":"link",
             "github":"https://github.com/mugishasam123/calculator",
             "description":"Calculator is an app that allows you to do all basic math calculations",
             "technologies":["Javascript", "Tailwind", "Vite"]
         },
         {
-            "project-name":"Password Generator",
+            "projectName":"Password Generator",
             "youtube":"link",
             "github":"https://github.com/mugishasam123/password-generator",
             "description":"Password Generator is an app that allows you to generate random password with some criteria such as uppercase,lowercase,number,symbols, etc",
             "technologies":["Javascript", "Webpack", "HTML", "CSS"]
         },
         {
-            "project-name":"Quotes Generator",
+            "projectName":"Quotes Generator",
             "youtube":"link",
             "github":"https://github.com/mugishasam123/quotes-generator",
             "description":"Quotes Generator is an app that allows you to generate random quotes and you can tweet them.",
             "technologies":["Javascript", "Webpack", "HTML", "CSS"]
         },
         {
-            "project-name":"Recipes App",
+            "projectName":"Recipes App",
             "youtube":"link",
             "github":"https://github.com/mugishasam123/recipe-app",
             "description":"Recipe app allows you to search any recipe. It is built using React.js and consumes data from the Spoonacular api",
             "technologies":["Javascript", "Tailwind", "Vite"]
         },
         {
-            "project-name":"Weather App",
+            "projectName":"Weather App",
             "youtube":"link",
             "github":"https://github.com/mugishasam123/weather-app",
             "description":"Weather app is web app that helps users view the current weather in a particular city that they searched. It is built using React.js and consumes data from the openWeather API",
             "technologies":["Javascript", "Tailwind", "Vite"]
         },
         {
-            "project-name":"QR Code Generator",
+            "projectName":"QR Code Generator",
             "youtube":"link",
             "github":"https://github.com/mugishasam123/qr-code-gen-app",
             "description":"QR code generator is terminal app that helps to create a QR code from the data provided either as image or directly in terminal",
             "technologies":["Javascript", "Node.js"]
         },
         {
-            "project-name":"Currency Converter",
+            "projectName":"Currency Converter",
             "youtube":"link",
             "github":"https://github.com/mugishasam123/currency-converter",
             "description":"Currency converter is app that helps users to convert funds from one currency to another",
             "technologies":["Javascript", "Node.js", "Express.js", "EJS"]
         },
         {
-            "project-name":"Text Sentiment Analyzer",
+            "projectName":"Text Sentiment Analyzer",
             "youtube":"link",
             "github":"https://github.com/mugishasam123/sentimentor",
             "description":"Text Sentiment Analyzer is an app built with nodejs anf NLP that allows companies to gain an overview of how their customers feel about the brand",
             "technologies":["Javascript", "Node.js", "Express.js", "NLP"]
         },
         {
-            "project-name":"Image-To-Text Converter",
+            "projectName":"Image-To-Text Converter",
             "youtube":"link",
             "github":"https://github.com/mugishasam123/image-to-text-converter",
             "description":"Image to text converter is web app that helps to parse the image and extracts texts in it. It then displays the texts in UI so that you can copy them. It uses OCR technology",
             "technologies":["Javascript", "Node.js", "Express.js", "OCR"]
         },
         {
-            "project-name":"Language Translator App",
+            "projectName":"Language Translator App",
             "youtube":"link",
             "github":"https://github.com/mugishasam123/Translator-app",
             "description":"This is a web app that allows users to translate texts from one language to another. It has support for almost all languages and it uses Google Cloud translate api",
             "technologies":["Javascript", "Node.js", "Express.js", "EJS"]
         },
         {
-            "project-name":"Sudoku Solver App",
+            "projectName":"Sudoku Solver App",
             "youtube":"link",
             "github":"https://github.com/mugishasam123/Sudoku-solver-app",
             "description":"This is an app that displays Sudoku board with an option to auto-solve",
             "technologies":["Javascript", "Python", "Node.js", "Express.js"]
         },
         {
-            "project-name":"Movie Recommendation System",
+            "projectName":"Movie Recommendation System",
             "youtube":"link",
             "github":"https://github.com/mugishasam123/movie-recommender",
             "description":"This is a web application that uses Machine Learning in order to recommend movies based on the movies you liked and the rating you gave it. It uses Flask and a Machine Learning algorithm",
@@ -108,104 +108,104 @@
     },
     {
       "name": "NSABIMANA Emmanuel",
-      "picture": "link",
+      "picture": "https://asset.cloudinary.com/dpwbjykbw/979ab6a49cf7510ed7bd87057162b43e",
       "role":"Software Engineer", 
-      "bio":"",
+      "bio":"Persistent and ambitious software engineer with a desire to grow fast in this domain. Capable of ramping up quickly and efficiently, and of both working in a team and independently. Lover of remote work. Skilled in various languages, frameworks, and technologies. Built 30+ projects while completing Microverse, an online software development school that accepts less than 1% of its applicants.",
       "location": "Rwanda",
       "projects": [
         {
-            "project-name":"QR Code Generator",
+            "projectName":"QR Code Generator",
             "youtube":"link",
             "github":"https://github.com/Emmyn5600/delta-project/tree/main/qrcodegenerator",
             "description":"QR code generator is terminal app that helps to create a QR code from the data provided either as image or directly in terminal",
             "technologies":["Javascript", "Node.js"]
         },
         {
-            "project-name":"Rock-paper Scissors App",
+            "projectName":"Rock-paper Scissors App",
             "youtube":"link",
             "github":"https://github.com/Emmyn5600/delta-project/tree/main/Rock-Paper-Scissors",
             "description":"Game of the rock-scissors-paper.It works in the following way: Stone wins over scissors because stone is hard and cannot be cut with scissors. Scissors win over paper because scissors can cut paper. Paper wins over stone because paper can wrap stone.",
             "technologies":["Javascript", "HTML", "CSS"]
         },
         {
-            "project-name":"React Calculator",
+            "projectName":"React Calculator",
             "youtube":"link",
             "github":"https://github.com/Emmyn5600/delta-project/tree/main/calculator-app",
             "description":"Calculator is an app that allows you to do all basic math calculations",
             "technologies":["TypeScript", "CSS", "Vite"]
         },
         {
-            "project-name":"Password Generator",
+            "projectName":"Password Generator",
             "youtube":"link",
             "github":"https://github.com/Emmyn5600/delta-project/tree/main/passwordGen",
             "description":"Password Generator is an app that allows you to generate random password with some criteria such as uppercase,lowercase,number,symbols, etc",
             "technologies":["Javascript", "HTML", "CSS"]
         },
         {
-            "project-name":"Text Sentiment Analyzer",
+            "projectName":"Text Sentiment Analyzer",
             "youtube":"link",
             "github":"https://github.com/Emmyn5600/delta-project/tree/main/sentimentAnalysis",
             "description":"Text Sentiment Analyzer is an app built with nodejs anf NLP that allows companies to gain an overview of how their customers feel about the brand",
             "technologies":["Javascript", "Node.js", "Express.js", "NLP"]
         },
         {
-            "project-name":"Weather App",
+            "projectName":"Weather App",
             "youtube":"link",
             "github":"https://github.com/Emmyn5600/delta-project/tree/main/weatherApp",
             "description":"Weather app is web app that helps users view the current weather in a particular city that they searched. It is built using React.js and consumes data from the openWeather API",
             "technologies":["TypeScript", "CSS", "Vite"]
         },
         {
-            "project-name":"Text Extractor",
+            "projectName":"Text Extractor",
             "youtube":"link",
             "github":"https://github.com/Emmyn5600/delta-project/tree/main/pdfTextReader",
             "description":"This is a web application that extracts text from PDF documents by converting the documents to a text format (either txt or docx). I built this using Express JS, ejs, and Python",
             "technologies":["Javascript", "Python", "Express.js", "EJS"]
         },
         {
-            "project-name":"Image-To-Text Converter",
+            "projectName":"Image-To-Text Converter",
             "youtube":"link",
             "github":"https://github.com/Emmyn5600/delta-project/tree/main/imageText",
             "description":"Image to text converter is web app that helps to parse the image and extracts texts in it. It then displays the texts in UI so that you can copy them. It uses OCR technology",
             "technologies":["Javascript", "Node.js", "OCR"]
         },
         {
-            "project-name":"Currency Converter",
+            "projectName":"Currency Converter",
             "youtube":"link",
             "github":"https://github.com/Emmyn5600/delta-project/tree/main/currencyConverter",
             "description":"Currency converter is app that helps users to convert funds from one currency to another",
             "technologies":["Javascript", "Node.js", "Express.js", "EJS"]
         },
         {
-            "project-name":"File Encryption Program",
+            "projectName":"File Encryption Program",
             "youtube":"link",
             "github":"https://github.com/Emmyn5600/delta-project/tree/main/file_encrypt",
             "description":"This is a simple console program (or cli tool) that enables you to perform symmetric file encryption.",
             "technologies":["Node.js", "Javascript"]
         },
         {
-            "project-name":"GitHub Authentication Service App",
+            "projectName":"GitHub Authentication Service App",
             "youtube":"link",
             "github":"https://github.com/Emmyn5600/delta-project/tree/main/github_auth",
             "description":"This is a simple web app that lets users sign up, login, logout, with GitHub. It is built with Next.js and Node.js.",
             "technologies":["TypeScript", "Next.js", "Node.js"]
         },
         {
-            "project-name":"Language Translator App",
+            "projectName":"Language Translator App",
             "youtube":"link",
             "github":"https://github.com/Emmyn5600/delta-project/tree/main/translater",
             "description":"This is a web app that allows users to translate texts from one language to another. It has support for almost all languages and it uses Google Cloud translate api",
             "technologies":["Javascript", "Node.js", "Express.js", "EJS"]
         },
         {
-            "project-name":"Chat App",
+            "projectName":"Chat App",
             "youtube":"link",
             "github":"https://github.com/Emmyn5600/delta-project/tree/main/chatApp",
             "description":"A simple chatroom application built using Express JS and Socket.io",
             "technologies":["Javascript", "Node.js", "Socket.io"]
         },
         {
-            "project-name":"BMI Calculator",
+            "projectName":"BMI Calculator",
             "youtube":"link",
             "github":"https://github.com/Emmyn5600/delta-project/tree/main/bmiCalculator",
             "description":"This is a very simple mobile app for calculating your BMI. I built this using React Native and expo.",
@@ -215,104 +215,104 @@
     },
     {
       "name": "Chance Desire IRADUKUNDA",
-      "picture": "link",
+      "picture": "https://asset.cloudinary.com/dpwbjykbw/2ba38f7357b6221981111617ba9cc322",
       "role":"Software Engineer", 
-      "bio":"",
+      "bio":"Software Engineer & Full-Stack Developer | Blockchain Enthusiastic, IT",
       "location": "Rwanda",
       "projects": [
         {
-            "project-name":"React Todo-list",
+            "projectName":"React Todo-list",
             "youtube":"link",
             "github":"https://github.com/chanceDira/todo-challenge",
             "description":"Todo list is an app that allows you to track all of your daily activities by setting up activities,editing and removing them",
             "technologies":["Javascript", "CSS", "HTML"]
         },
         {
-            "project-name":"Phaser Simple Game",
+            "projectName":"Phaser Simple Game",
             "youtube":"link",
             "github":"https://github.com/chanceDira/Juggle-PhaserJS",
             "description":"This a short and simple game built using phaser3 JS.",
             "technologies":["Javascript", "Phaser"]
         },
         {
-            "project-name":"Rock-paper Scissors App",
+            "projectName":"Rock-paper Scissors App",
             "youtube":"link",
             "github":"https://github.com/chanceDira/rock-scissors-paper",
             "description":"Game of the rock-scissors-paper.It works in the following way: Stone wins over scissors because stone is hard and cannot be cut with scissors. Scissors win over paper because scissors can cut paper. Paper wins over stone because paper can wrap stone.",
             "technologies":["Javascript"]
         },
         {
-            "project-name":"React Pomodoro Timer",
+            "projectName":"React Pomodoro Timer",
             "youtube":"link",
             "github":"https://github.com/chanceDira/pomodoro-app",
             "description":"The Pomodoro Technique is a time management method based on 25-minute stretches of focused work broken by five-minute breaks.",
             "technologies":["Javascript", "Webpack", "Tailwind", "HTML"]
         },
         {
-            "project-name":"Quotes Generator",
+            "projectName":"Quotes Generator",
             "youtube":"link",
             "github":"https://github.com/chanceDira/quote-generator",
             "description":"Quotes Generator is an app that allows you to generate random quotes and you can tweet them.",
             "technologies":["Javascript","HTML", "CSS"]
         },
         {
-            "project-name":"YT Video Downloader",
+            "projectName":"YT Video Downloader",
             "youtube":"link",
             "github":"https://github.com/chanceDira/chance-youtube-downloader",
             "description":"This is a web app that allows you to download YouTube videos",
             "technologies":["Node.js", "Javascript", "Tailwind"]
         },
         {
-            "project-name":"Weather App",
+            "projectName":"Weather App",
             "youtube":"link",
             "github":"https://github.com/chanceDira/weather-app",
             "description":"Weather app is web app that helps users view the current weather in a particular city that they searched. It is built using React.js and consumes data from the openWeather API",
             "technologies":["Javascript", "CSS", "HTML"]
         },
         {
-            "project-name":"QR Code Generator",
+            "projectName":"QR Code Generator",
             "youtube":"link",
             "github":"https://github.com/chanceDira/qr-code-generator",
             "description":"QR code generator is terminal app that helps to create a QR code from the data provided either as image or directly in terminal",
             "technologies":["Javascript", "Node.js", "Express.js", "EJS"]
         },
         {
-            "project-name":"Chat App",
+            "projectName":"Chat App",
             "youtube":"link",
             "github":"https://github.com/chanceDira/chat-app-challenge",
             "description":"A simple chatroom application built using Express JS and Socket.io",
             "technologies":["Javascript", "Node.js", "Socket.io"]
         },
         {
-            "project-name":"Text Extractor",
+            "projectName":"Text Extractor",
             "youtube":"link",
             "github":"https://github.com/chanceDira/pdf-text-extract",
             "description":"This is a web application that extracts text from PDF documents by converting the documents to a text format. I built this using Node and Python",
             "technologies":["Javascript", "Python", "Node.js"]
         },
         {
-            "project-name":"Image-To-Text Converter",
+            "projectName":"Image-To-Text Converter",
             "youtube":"link",
             "github":"https://github.com/chanceDira/image-doc-extractor-ai",
             "description":"Image to text converter is web app that helps to parse the image and extracts texts in it. It then displays the texts in UI so that you can copy them. It uses OCR technology",
             "technologies":["Javascript", "Node.js", "Express.js", "OCR"]
         },
         {
-            "project-name":"GitHub Authentication Service App",
+            "projectName":"GitHub Authentication Service App",
             "youtube":"link",
             "github":"https://github.com/chanceDira/gate-code-app",
             "description":"This is a simple web app that lets users sign up, login, logout, with GitHub. It is built with Next.js and Node.js.",
             "technologies":["Javascript", "Next.js", "Node.js"]
         },
         {
-            "project-name":"Sudoku Solver App",
+            "projectName":"Sudoku Solver App",
             "youtube":"link",
             "github":"https://github.com/chanceDira/sudoku-solver",
             "description":"This is an app that displays Sudoku board with an option to auto-solve",
             "technologies":["Javascript", "Python", "Node.js"]
         },
         {
-            "project-name":"BMI Calculator",
+            "projectName":"BMI Calculator",
             "youtube":"link",
             "github":"https://github.com/chanceDira/bmi-calculator-mobile",
             "description":"This is a very simple mobile app for calculating your BMI. I built this using React Native and expo.",
@@ -322,104 +322,104 @@
     },
     {
       "name": "Kolawole Olaniyi",
-      "picture": "link",
+      "picture": "https://asset.cloudinary.com/dpwbjykbw/1757f478d7a4b51568f9dd7ce62d3e8a",
       "role":"Software Engineer", 
-      "bio":"",
-      "location": "Rwanda",
+      "bio":"I am kolawole a software developer with a passion for coding and a love of all things tech! With about 4 years of experience under my belt, i am very good at turning complex programming challenges into elegant, streamlined solutions. I am a true coding guru, with an eye for detail and a knack for debugging that always gets the job done.",
+      "location": "Nigeria",
       "projects": [
         {
-            "project-name":"React Todo-list",
+            "projectName":"React Todo-list",
             "youtube":"link",
             "github":"https://github.com/kolniy/todo",
             "description":"Todo list is an app that allows you to track all of your daily activities by setting up activities,editing and removing them",
             "technologies":["Javascript", "CSS", "HTML"]
         },
         {
-            "project-name":"File Encryption Program",
+            "projectName":"File Encryption Program",
             "youtube":"link",
             "github":"https://github.com/kolniy/file-encryption",
             "description":"This is a simple console program (or cli tool) that enables you to perform symmetric file encryption.",
             "technologies":["Javascript"]
         },
         {
-            "project-name":"Phaser Simple Game",
+            "projectName":"Phaser Simple Game",
             "youtube":"link",
             "github":"https://github.com/kolniy/breakout-game",
             "description":"This a simple phaser game built using phaser3.JS.",
             "technologies":["Javascript", "CSS", "HTML", "Phaser"]
         },
         {
-            "project-name":"Password Generator",
+            "projectName":"Password Generator",
             "youtube":"link",
             "github":"https://github.com/kolniy/password-genetor",
             "description":"Password Generator is an app that allows you to generate random password with some criteria such as uppercase,lowercase,number,symbols, etc",
             "technologies":["Javascript", "HTML", "CSS"]
         },
         {
-            "project-name":"YT Video Downloader",
+            "projectName":"YT Video Downloader",
             "youtube":"link",
             "github":"https://github.com/kolniy/youtube-downloader-cli-app",
             "description":"This is a CLI tool that allows you to download YouTube videos",
             "technologies":["Node.js", "Javascript"]
         },
         {
-            "project-name":"Recipes App",
+            "projectName":"Recipes App",
             "youtube":"link",
             "github":"https://github.com/kolniy/recipefy",
             "description":"Recipe app allows you to search any recipe. It is built using React.js and consumes data from the Spoonacular api",
             "technologies":["Javascript", "CSS"]
         },
         {
-            "project-name":"Weather App",
+            "projectName":"Weather App",
             "youtube":"link",
             "github":"https://github.com/kolniy/weathernyzer",
             "description":"Weather app is web app that helps users view the current weather in a particular city that they searched. It is built using React.js and consumes data from the openWeather API",
             "technologies":["Javascript", "CSS", "HTML"]
         },
         {
-            "project-name":"QR Code Generator",
+            "projectName":"QR Code Generator",
             "youtube":"link",
             "github":"https://github.com/kolniy/qr-code-generator",
             "description":"QR code generator is terminal app that helps to create a QR code from the data provided either as image or directly in terminal",
             "technologies":["Javascript", "Node.js", "Express.js", "EJS"]
         },
         {
-            "project-name":"Volunteer Locator App",
+            "projectName":"Volunteer Locator App",
             "youtube":"link",
             "github":"https://github.com/kolniy/volunteer-locator",
             "description":"A web application that allows users to find volunteers around them",
             "technologies":["Javascript", "Node.js", "React.js"]
         },
         {
-            "project-name":"Text Sentiment Analyzer",
+            "projectName":"Text Sentiment Analyzer",
             "youtube":"link",
             "github":"https://github.com/kolniy/sentimental",
             "description":"Text Sentiment Analyzer is an app built with nodejs anf NLP that allows companies to gain an overview of how their customers feel about the brand",
             "technologies":["Javascript", "Node.js", "Express.js", "NLP"]
         },
         {
-            "project-name":"Image-To-Text Converter",
+            "projectName":"Image-To-Text Converter",
             "youtube":"link",
             "github":"https://github.com/kolniy/text-reader-OCR#project-specifications",
             "description":"Image to text converter is web app that helps to parse the image and extracts texts in it. It then displays the texts in UI so that you can copy them. It uses OCR technology",
             "technologies":["Javascript", "Node.js", "Handlebars", "OCR"]
         },
         {
-            "project-name":"Language Translator App",
+            "projectName":"Language Translator App",
             "youtube":"link",
             "github":"https://github.com/kolniy/translator",
             "description":"This is a web app that allows users to translate texts from one language to another. it uses Google Cloud translate api",
             "technologies":["Javascript", "Node.js", "Handlebars"]
         },
         {
-            "project-name":"Text Extractor",
+            "projectName":"Text Extractor",
             "youtube":"link",
             "github":"https://github.com/kolniy/PDF-reader",
             "description":"This is a web application that extracts text from PDF documents by converting the documents to a text format. I built this using Node and Python",
             "technologies":["Handlebars", "Python", "Node.js"]
         },
         {
-            "project-name":"BMI Calculator",
+            "projectName":"BMI Calculator",
             "youtube":"link",
             "github":"https://github.com/kolniy/BMI-calc",
             "description":"This is a very simple mobile app for calculating your BMI. I built this using React Native and expo.",
@@ -429,104 +429,104 @@
     },
     {
       "name": "Kamara Fidele",
-      "picture": "link",
+      "picture": "https://asset.cloudinary.com/dpwbjykbw/95ded7421a9671498fb239f40eb68dd3",
       "role":"Software Engineer", 
-      "bio":"",
+      "bio":"I am a software engineer working hard and smart to deliver working and useful solutions to the world. I am interested in Machine Learning and Artificial Intelligence. I am passionate, creative, innovative, supportive and flexible.",
       "location": "Rwanda",
       "projects": [
         {
-            "project-name":"React Todo-list",
+            "projectName":"React Todo-list",
             "youtube":"link",
             "github":"https://github.com/kamalafidele/todo",
             "description":"Todo list is an app that allows you to track all of your daily activities by setting up activities,editing and removing them",
             "technologies":["Javascript", "CSS", "HTML"]
         },
         {
-            "project-name":"React Calculator",
+            "projectName":"React Calculator",
             "youtube":"link",
             "github":"https://github.com/kamalafidele/calculator",
             "description":"Calculator is an app that allows you to do all basic math calculations",
             "technologies":["Javascript", "CSS", "HTML"]
         },
         {
-            "project-name":"Web Scraper App",
+            "projectName":"Web Scraper App",
             "youtube":"link",
             "github":"https://github.com/kamalafidele/scrapping",
             "description":"This is a web scraper that extracts data from a website using Cheerio and Node.js",
             "technologies":["Javascript", "Node.js", "Cheerio"]
         },
         {
-            "project-name":"Password Generator",
+            "projectName":"Password Generator",
             "youtube":"link",
             "github":"https://github.com/kamalafidele/password-generator",
             "description":"Password Generator is an app that allows you to generate random password with some criteria such as uppercase,lowercase,number,symbols, etc",
             "technologies":["Javascript", "HTML", "CSS"]
         },
         {
-            "project-name":"Blog App",
+            "projectName":"Blog App",
             "youtube":"link",
             "github":"https://github.com/kamalafidele/blogging-app",
             "description":"This is an app where users can create blog posts and share them for others to read them.",
             "technologies":["Node.js", "Express.js", "CSS", "HTML"]
         },
         {
-            "project-name":"Quotes Generator",
+            "projectName":"Quotes Generator",
             "youtube":"link",
             "github":"https://github.com/kamalafidele/quote-gen",
             "description":"Quotes Generator is an app that allows you to generate random quotes and you can tweet them.",
             "technologies":["Javascript","HTML", "CSS"]
         },
         {
-            "project-name":"Chat App",
+            "projectName":"Chat App",
             "youtube":"link",
             "github":"https://github.com/kamalafidele/chat_app",
             "description":"A simple chatroom application built using Express JS and Socket.io",
             "technologies":["Javascript", "Socket.io", "CSS", "HTML"]
         },
         {
-            "project-name":"QR Code Generator",
+            "projectName":"QR Code Generator",
             "youtube":"link",
             "github":"https://github.com/kamalafidele/qrcode-generator",
             "description":"QR code generator is terminal app that helps to create a QR code from the data provided either as image or directly in terminal",
             "technologies":["Javascript", "Node.js"]
         },
         {
-            "project-name":"Currency Converter",
+            "projectName":"Currency Converter",
             "youtube":"link",
             "github":"https://github.com/kamalafidele/currency_converter",
             "description":"Currency converter is app that helps users to convert funds from one currency to another",
             "technologies":["Javascript", "Node.js"]
         },
         {
-            "project-name":"Text Sentiment Analyzer",
+            "projectName":"Text Sentiment Analyzer",
             "youtube":"link",
             "github":"https://github.com/kamalafidele/sentiment-analyzer",
             "description":"Text Sentiment Analyzer is an app built with nodejs anf NLP that allows companies to gain an overview of how their customers feel about the brand",
             "technologies":["Javascript", "Node.js", "Express.js", "NLP"]
         },
         {
-            "project-name":"Image-To-Text Converter",
+            "projectName":"Image-To-Text Converter",
             "youtube":"link",
             "github":"https://github.com/kamalafidele/image-text-extraction",
             "description":"Image to text converter is web app that helps to parse the image and extracts texts in it. It then displays the texts in UI so that you can copy them. It uses OCR technology",
             "technologies":["Javascript", "Node.js","OCR"]
         },
         {
-            "project-name":"ASCII Art Generator",
+            "projectName":"ASCII Art Generator",
             "youtube":"link",
             "github":"https://github.com/kamalafidele/image-to-ascii_art",
             "description":"This is a web application that generates ASCII art from images. I built this using Express JS, ejs, and Python.",
             "technologies":["Javascript", "Express.js", "Python"]
         },
         {
-            "project-name":"Text Extractor",
+            "projectName":"Text Extractor",
             "youtube":"link",
             "github":"https://github.com/kamalafidele/pdf-reader",
             "description":"This is a web application that extracts text from PDF documents by converting the documents to a text format. I built this using Node and Python",
             "technologies":["Python", "Node.js"]
         },
         {
-            "project-name":"Language Translator App",
+            "projectName":"Language Translator App",
             "youtube":"link",
             "github":"https://github.com/kamalafidele/translate",
             "description":"This is a web app that allows users to translate texts from one language to another. It has support for almost all languages and it uses Google Cloud translate api",
@@ -536,104 +536,104 @@
     },
     {
       "name": "Tuyizere Anastase",
-      "picture": "link",
+      "picture": "https://asset.cloudinary.com/dpwbjykbw/87ab7c64154d7274717a0b9227a7b01c",
       "role":"Software Engineer", 
-      "bio":"",
+      "bio":"A passionate software developer and long-time full-stack developer with 3 years of experience",
       "location": "Rwanda",
       "projects": [
         {
-            "project-name":"React Todo-list",
+            "projectName":"React Todo-list",
             "youtube":"link",
             "github":"https://github.com/TuyizeeAnastase/todolist",
             "description":"Todo list is an app that allows you to track all of your daily activities by setting up activities,editing and removing them",
             "technologies":["Javascript", "Tailwind", "HTML"]
         },
         {
-            "project-name":"React Quiz App",
+            "projectName":"React Quiz App",
             "youtube":"link",
             "github":"https://github.com/TuyizeeAnastase/quiz_app",
             "description":"Quiz app is an app that allows you to play a game of answering multiple choice questions and provides your scores at the end",
             "technologies":["Javascript", "Tailwind", "HTML"]
         },
         {
-            "project-name":"React Calculator",
+            "projectName":"React Calculator",
             "youtube":"link",
             "github":"https://github.com/TuyizeeAnastase/calculator",
             "description":"Calculator is an app that allows you to do all basic math calculations",
             "technologies":["Javascript", "Tailwind", "HTML"]
         },
         {
-            "project-name":"Blog App",
+            "projectName":"Blog App",
             "youtube":"link",
             "github":"https://github.com/TuyizeeAnastase/blog-backend",
             "description":"This is an app where users can create blog posts and share them for others to read them.",
             "technologies":["Node.js", "Express.js"]
         },
         {
-            "project-name":"Quotes Generator",
+            "projectName":"Quotes Generator",
             "youtube":"link",
             "github":"https://github.com/TuyizeeAnastase/random-quotes",
             "description":"Quotes Generator is an app that allows you to generate random quotes and you can tweet them.",
             "technologies":["Javascript", "HTML", "CSS"]
         },
         {
-            "project-name":"Recipes App",
+            "projectName":"Recipes App",
             "youtube":"link",
             "github":"https://github.com/TuyizeeAnastase/meal_planner",
             "description":"Recipe app allows you to search any recipe. It is built using React.js and consumes data from the Spoonacular api",
             "technologies":["Javascript", "CSS", "HTML"]
         },
         {
-            "project-name":"Weather App",
+            "projectName":"Weather App",
             "youtube":"link",
             "github":"https://github.com/TuyizeeAnastase/weather-app",
             "description":"Weather app is web app that helps users view the current weather in a particular city that they searched. It is built using React.js and consumes data from the openWeather API",
             "technologies":["Javascript", "CSS", "HTML"]
         },
         {
-            "project-name":"QR Code Generator",
+            "projectName":"QR Code Generator",
             "youtube":"link",
             "github":"https://github.com/TuyizeeAnastase/generates-a-QR-code",
             "description":"QR code generator is terminal app that helps to create a QR code from the data provided either as image or directly in terminal",
             "technologies":["Javascript", "Node.js"]
         },
         {
-            "project-name":"Currency Converter",
+            "projectName":"Currency Converter",
             "youtube":"link",
             "github":"https://github.com/TuyizeeAnastase/currency-converter",
             "description":"Currency converter is app that helps users to convert funds from one currency to another",
             "technologies":["Javascript", "Node.js", "CSS", "HTML"]
         },
         {
-            "project-name":"Text Sentiment Analyzer",
+            "projectName":"Text Sentiment Analyzer",
             "youtube":"link",
             "github":"https://github.com/TuyizeeAnastase/analyze-the-sentiment-of-a-piece-of-text",
             "description":"Text Sentiment Analyzer is an app built with nodejs anf NLP that allows companies to gain an overview of how their customers feel about the brand",
             "technologies":["Javascript", "Node.js", "Express.js", "NLP"]
         },
         {
-            "project-name":"Image-To-Text Converter",
+            "projectName":"Image-To-Text Converter",
             "youtube":"link",
             "github":"https://github.com/TuyizeeAnastase/read-image-using-OCR-technology-and-Node.js",
             "description":"Image to text converter is web app that helps to parse the image and extracts texts in it. It then displays the texts in UI so that you can copy them. It uses OCR technology",
             "technologies":["Javascript", "Node.js", "OCR"]
         },
         {
-            "project-name":"Language Translator App",
+            "projectName":"Language Translator App",
             "youtube":"link",
             "github":"https://github.com/TuyizeeAnastase/language-translator",
             "description":"This is a web app that allows users to translate texts from one language to another. It uses Google Cloud translate api",
             "technologies":["Javascript", "Node.js", "Express.js", "EJS"]
         },
         {
-            "project-name":"Text Extractor",
+            "projectName":"Text Extractor",
             "youtube":"link",
             "github":"https://github.com/TuyizeeAnastase/extracts-text-from-PDF-documents-",
             "description":"This is node app that extracts text from PDF documents by converting the documents to a text format. I built this using node and Python",
             "technologies":["Javascript", "Python"]
         },
         {
-            "project-name":"BMI Calculator",
+            "projectName":"BMI Calculator",
             "youtube":"link",
             "github":"https://github.com/TuyizeeAnastase/BMI-calculator-app-using-React-Native",
             "description":"This is a very simple mobile app for calculating your BMI. I built this using React Native and expo.",
@@ -643,104 +643,104 @@
     },
     {
       "name": "Ikem Ezechukwu",
-      "picture": "link",
+      "picture": "https://asset.cloudinary.com/dpwbjykbw/0f4efa246cc762179696b510d6f4e523",
       "role":"Software Engineer", 
-      "bio":"",
+      "bio":"I'm a software engineer with 4 years experience building web, mobile, and desktop applications. I also have experience building web APIs and distributed systems. I  work mainly with Javascript build tools and frameworks, but I am also somewhat proficient with C# and the .NET Core framework.",
       "location": "Nigeria",
       "projects": [
         {
-            "project-name":"React Todo-list",
+            "projectName":"React Todo-list",
             "youtube":"link",
             "github":"https://github.com/Dr-Drake/todo-list",
             "description":"Todo list is an app that allows you to track all of your daily activities by setting up activities,editing and removing them",
             "technologies":["TypeScript", "HTML","CSS"]
         },
         {
-            "project-name":"File Encryption Program",
+            "projectName":"File Encryption Program",
             "youtube":"link",
             "github":"https://github.com/Dr-Drake/file-encrypter",
             "description":"This is a simple console program (or cli tool) that enables you to perform symmetric file encryption.",
             "technologies":["TypeScript", "Javascript"]
         },
         {
-            "project-name":"React Calculator",
+            "projectName":"React Calculator",
             "youtube":"link",
             "github":"https://github.com/Dr-Drake/simple-calculator",
             "description":"Calculator is an app that allows you to do all basic math calculations",
             "technologies":["TypeScript", "HTML", "CSS"]
         },
         {
-            "project-name":"Phaser Simple Game",
+            "projectName":"Phaser Simple Game",
             "youtube":"link",
             "github":"https://github.com/Dr-Drake/simple-phaser-rpg",
             "description":"This a very short and simple rpg game built using phaser3 JS.",
             "technologies":["TypeScript", "Javascript", "Phaser"]
         },
         {
-            "project-name":"YT Video Downloader",
+            "projectName":"YT Video Downloader",
             "youtube":"link",
             "github":"https://github.com/Dr-Drake/yt-download",
             "description":"This is a CLI tool that allows you to download YouTube videos",
             "technologies":["TypeScript", "Javascript"]
         },
         {
-            "project-name":"Recipes App",
+            "projectName":"Recipes App",
             "youtube":"link",
             "github":"https://github.com/Dr-Drake/recipe-app",
             "description":"Recipe app allows you to search any recipe. It is built using React.js and consumes data from the Spoonacular api",
             "technologies":["TypeScript", "CSS", "HTML"]
         },
         {
-            "project-name":"Weather App",
+            "projectName":"Weather App",
             "youtube":"link",
             "github":"https://github.com/Dr-Drake/weather-app",
             "description":"Weather app is web app that helps users view the current weather in a particular city that they searched. It is built using React.js and consumes data from the openWeather API",
             "technologies":["TypeScript", "CSS", "HTML"]
         },
         {
-            "project-name":"Chat App",
+            "projectName":"Chat App",
             "youtube":"link",
             "github":"https://github.com/Dr-Drake/babblecord",
             "description":"A simple chatroom application built using Express JS and Socket.io",
             "technologies":["TypeScript", "Socket.io", "SCSS"]
         },
         {
-            "project-name":"Currency Converter",
+            "projectName":"Currency Converter",
             "youtube":"link",
             "github":"https://github.com/Dr-Drake/currency-converter",
             "description":"Currency converter is app that helps users to convert funds from one currency to another",
             "technologies":["TypeScript", "Handlebars"]
         },
         {
-            "project-name":"BMI Calculator",
+            "projectName":"BMI Calculator",
             "youtube":"link",
             "github":"https://github.com/Dr-Drake/bmi-calculator",
             "description":"This is a very simple mobile app for calculating your BMI. I built this using React Native and expo.",
             "technologies":["TypeScript", "Javascript", "EXPO"]
         },
         {
-            "project-name":"ASCII Art Generator",
+            "projectName":"ASCII Art Generator",
             "youtube":"link",
             "github":"https://github.com/Dr-Drake/ascii-picasso",
             "description":"This is a web application that generates ASCII art from images. I built this using Express JS, ejs, and Python.",
             "technologies":["Javascript", "TypeScript", "Express.js", "Python"]
         },
         {
-            "project-name":"Text Sentiment Analyzer",
+            "projectName":"Text Sentiment Analyzer",
             "youtube":"link",
             "github":"https://github.com/Dr-Drake/text-sentiment-analyzer",
             "description":"Text Sentiment Analyzer is an app built with nodejs anf NLP that allows companies to gain an overview of how their customers feel about the brand",
             "technologies":["Javascript", "Express.js", "SCSS", "NLP"]
         },
         {
-            "project-name":"Image-To-Text Converter",
+            "projectName":"Image-To-Text Converter",
             "youtube":"link",
             "github":"https://github.com/Dr-Drake/ocr-app",
             "description":"Image to text converter is web app that helps to parse the image and extracts texts in it. It then displays the texts in UI so that you can copy them. It uses OCR technology",
             "technologies":["TypeScript", "Node.js", "Express.js", "OCR"]
         },
         {
-            "project-name":"Text Extractor",
+            "projectName":"Text Extractor",
             "youtube":"link",
             "github":"https://github.com/Dr-Drake/pdf-convert",
             "description":"This is a web application that extracts text from PDF documents by converting the documents to a text format (either txt or docx). I built this using Express JS, ejs, and Python",
