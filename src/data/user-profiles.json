@@ -301,7 +301,7 @@
             "project-name":"Language Translator App",
             "youtube":"link",
             "github":"https://github.com/TuyizeeAnastase/language-translator",
-            "description":"This is a web app that allows users to translate texts from one language to another. It has support for almost all languages and it uses Google Cloud translate api",
+            "description":"This is a web app that allows users to translate texts from one language to another. It uses Google Cloud translate api",
             "technologies":["Javascript", "Node.js", "Express.js", "EJS"]
         },
         {
