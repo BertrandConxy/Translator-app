@@ -107,6 +107,113 @@
       ]
     },
     {
+      "name": "NSABIMANA Emmanuel",
+      "picture": "link",
+      "role":"Software Engineer", 
+      "bio":"",
+      "location": "Rwanda",
+      "projects": [
+        {
+            "project-name":"QR Code Generator",
+            "youtube":"link",
+            "github":"https://github.com/Emmyn5600/delta-project/tree/main/qrcodegenerator",
+            "description":"QR code generator is terminal app that helps to create a QR code from the data provided either as image or directly in terminal",
+            "technologies":["Javascript", "Node.js"]
+        },
+        {
+            "project-name":"Rock-paper Scissors App",
+            "youtube":"link",
+            "github":"https://github.com/Emmyn5600/delta-project/tree/main/Rock-Paper-Scissors",
+            "description":"Game of the rock-scissors-paper.It works in the following way: Stone wins over scissors because stone is hard and cannot be cut with scissors. Scissors win over paper because scissors can cut paper. Paper wins over stone because paper can wrap stone.",
+            "technologies":["Javascript", "HTML", "CSS"]
+        },
+        {
+            "project-name":"React Calculator",
+            "youtube":"link",
+            "github":"https://github.com/Emmyn5600/delta-project/tree/main/calculator-app",
+            "description":"Calculator is an app that allows you to do all basic math calculations",
+            "technologies":["TypeScript", "CSS", "Vite"]
+        },
+        {
+            "project-name":"Password Generator",
+            "youtube":"link",
+            "github":"https://github.com/Emmyn5600/delta-project/tree/main/passwordGen",
+            "description":"Password Generator is an app that allows you to generate random password with some criteria such as uppercase,lowercase,number,symbols, etc",
+            "technologies":["Javascript", "HTML", "CSS"]
+        },
+        {
+            "project-name":"Text Sentiment Analyzer",
+            "youtube":"link",
+            "github":"https://github.com/Emmyn5600/delta-project/tree/main/sentimentAnalysis",
+            "description":"Text Sentiment Analyzer is an app built with nodejs anf NLP that allows companies to gain an overview of how their customers feel about the brand",
+            "technologies":["Javascript", "Node.js", "Express.js", "NLP"]
+        },
+        {
+            "project-name":"Weather App",
+            "youtube":"link",
+            "github":"https://github.com/Emmyn5600/delta-project/tree/main/weatherApp",
+            "description":"Weather app is web app that helps users view the current weather in a particular city that they searched. It is built using React.js and consumes data from the openWeather API",
+            "technologies":["TypeScript", "CSS", "Vite"]
+        },
+        {
+            "project-name":"Text Extractor",
+            "youtube":"link",
+            "github":"https://github.com/Emmyn5600/delta-project/tree/main/pdfTextReader",
+            "description":"This is a web application that extracts text from PDF documents by converting the documents to a text format (either txt or docx). I built this using Express JS, ejs, and Python",
+            "technologies":["Javascript", "Python", "Express.js", "EJS"]
+        },
+        {
+            "project-name":"Image-To-Text Converter",
+            "youtube":"link",
+            "github":"https://github.com/Emmyn5600/delta-project/tree/main/imageText",
+            "description":"Image to text converter is web app that helps to parse the image and extracts texts in it. It then displays the texts in UI so that you can copy them. It uses OCR technology",
+            "technologies":["Javascript", "Node.js", "OCR"]
+        },
+        {
+            "project-name":"Currency Converter",
+            "youtube":"link",
+            "github":"https://github.com/Emmyn5600/delta-project/tree/main/currencyConverter",
+            "description":"Currency converter is app that helps users to convert funds from one currency to another",
+            "technologies":["Javascript", "Node.js", "Express.js", "EJS"]
+        },
+        {
+            "project-name":"File Encryption Program",
+            "youtube":"link",
+            "github":"https://github.com/Emmyn5600/delta-project/tree/main/file_encrypt",
+            "description":"This is a simple console program (or cli tool) that enables you to perform symmetric file encryption.",
+            "technologies":["Node.js", "Javascript"]
+        },
+        {
+            "project-name":"GitHub Authentication Service App",
+            "youtube":"link",
+            "github":"https://github.com/Emmyn5600/delta-project/tree/main/github_auth",
+            "description":"This is a simple web app that lets users sign up, login, logout, with GitHub. It is built with Next.js and Node.js.",
+            "technologies":["TypeScript", "Next.js", "Node.js"]
+        },
+        {
+            "project-name":"Language Translator App",
+            "youtube":"link",
+            "github":"https://github.com/Emmyn5600/delta-project/tree/main/translater",
+            "description":"This is a web app that allows users to translate texts from one language to another. It has support for almost all languages and it uses Google Cloud translate api",
+            "technologies":["Javascript", "Node.js", "Express.js", "EJS"]
+        },
+        {
+            "project-name":"Chat App",
+            "youtube":"link",
+            "github":"https://github.com/Emmyn5600/delta-project/tree/main/chatApp",
+            "description":"A simple chatroom application built using Express JS and Socket.io",
+            "technologies":["Javascript", "Node.js", "Socket.io"]
+        },
+        {
+            "project-name":"BMI Calculator",
+            "youtube":"link",
+            "github":"https://github.com/Emmyn5600/delta-project/tree/main/bmiCalculator",
+            "description":"This is a very simple mobile app for calculating your BMI. I built this using React Native and expo.",
+            "technologies":["Javascript", "EXPO"]
+        }
+      ]
+    },
+    {
       "name": "Chance Desire IRADUKUNDA",
       "picture": "link",
       "role":"Software Engineer", 
@@ -317,6 +424,113 @@
             "github":"https://github.com/kolniy/BMI-calc",
             "description":"This is a very simple mobile app for calculating your BMI. I built this using React Native and expo.",
             "technologies":["Javascript", "EXPO"]
+        }
+      ]
+    },
+    {
+      "name": "Kamara Fidele",
+      "picture": "link",
+      "role":"Software Engineer", 
+      "bio":"",
+      "location": "Rwanda",
+      "projects": [
+        {
+            "project-name":"React Todo-list",
+            "youtube":"link",
+            "github":"https://github.com/kamalafidele/todo",
+            "description":"Todo list is an app that allows you to track all of your daily activities by setting up activities,editing and removing them",
+            "technologies":["Javascript", "CSS", "HTML"]
+        },
+        {
+            "project-name":"React Calculator",
+            "youtube":"link",
+            "github":"https://github.com/kamalafidele/calculator",
+            "description":"Calculator is an app that allows you to do all basic math calculations",
+            "technologies":["Javascript", "CSS", "HTML"]
+        },
+        {
+            "project-name":"Web Scraper App",
+            "youtube":"link",
+            "github":"https://github.com/kamalafidele/scrapping",
+            "description":"This is a web scraper that extracts data from a website using Cheerio and Node.js",
+            "technologies":["Javascript", "Node.js", "Cheerio"]
+        },
+        {
+            "project-name":"Password Generator",
+            "youtube":"link",
+            "github":"https://github.com/kamalafidele/password-generator",
+            "description":"Password Generator is an app that allows you to generate random password with some criteria such as uppercase,lowercase,number,symbols, etc",
+            "technologies":["Javascript", "HTML", "CSS"]
+        },
+        {
+            "project-name":"Blog App",
+            "youtube":"link",
+            "github":"https://github.com/kamalafidele/blogging-app",
+            "description":"This is an app where users can create blog posts and share them for others to read them.",
+            "technologies":["Node.js", "Express.js", "CSS", "HTML"]
+        },
+        {
+            "project-name":"Quotes Generator",
+            "youtube":"link",
+            "github":"https://github.com/kamalafidele/quote-gen",
+            "description":"Quotes Generator is an app that allows you to generate random quotes and you can tweet them.",
+            "technologies":["Javascript","HTML", "CSS"]
+        },
+        {
+            "project-name":"Chat App",
+            "youtube":"link",
+            "github":"https://github.com/kamalafidele/chat_app",
+            "description":"A simple chatroom application built using Express JS and Socket.io",
+            "technologies":["Javascript", "Socket.io", "CSS", "HTML"]
+        },
+        {
+            "project-name":"QR Code Generator",
+            "youtube":"link",
+            "github":"https://github.com/kamalafidele/qrcode-generator",
+            "description":"QR code generator is terminal app that helps to create a QR code from the data provided either as image or directly in terminal",
+            "technologies":["Javascript", "Node.js"]
+        },
+        {
+            "project-name":"Currency Converter",
+            "youtube":"link",
+            "github":"https://github.com/kamalafidele/currency_converter",
+            "description":"Currency converter is app that helps users to convert funds from one currency to another",
+            "technologies":["Javascript", "Node.js"]
+        },
+        {
+            "project-name":"Text Sentiment Analyzer",
+            "youtube":"link",
+            "github":"https://github.com/kamalafidele/sentiment-analyzer",
+            "description":"Text Sentiment Analyzer is an app built with nodejs anf NLP that allows companies to gain an overview of how their customers feel about the brand",
+            "technologies":["Javascript", "Node.js", "Express.js", "NLP"]
+        },
+        {
+            "project-name":"Image-To-Text Converter",
+            "youtube":"link",
+            "github":"https://github.com/kamalafidele/image-text-extraction",
+            "description":"Image to text converter is web app that helps to parse the image and extracts texts in it. It then displays the texts in UI so that you can copy them. It uses OCR technology",
+            "technologies":["Javascript", "Node.js","OCR"]
+        },
+        {
+            "project-name":"ASCII Art Generator",
+            "youtube":"link",
+            "github":"https://github.com/kamalafidele/image-to-ascii_art",
+            "description":"This is a web application that generates ASCII art from images. I built this using Express JS, ejs, and Python.",
+            "technologies":["Javascript", "Express.js", "Python"]
+        },
+        {
+            "project-name":"Text Extractor",
+            "youtube":"link",
+            "github":"https://github.com/kamalafidele/pdf-reader",
+            "description":"This is a web application that extracts text from PDF documents by converting the documents to a text format. I built this using Node and Python",
+            "technologies":["Python", "Node.js"]
+        },
+        {
+            "project-name":"Language Translator App",
+            "youtube":"link",
+            "github":"https://github.com/kamalafidele/translate",
+            "description":"This is a web app that allows users to translate texts from one language to another. It has support for almost all languages and it uses Google Cloud translate api",
+            "technologies":["Javascript", "Node.js"]
         }
       ]
     },
