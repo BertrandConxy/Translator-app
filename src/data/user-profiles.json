@@ -107,6 +107,113 @@
       ]
     },
     {
+      "name": "Kolawole Olaniyi",
+      "picture": "link",
+      "role":"Software Engineer", 
+      "bio":"",
+      "location": "Rwanda",
+      "projects": [
+        {
+            "project-name":"React Todo-list",
+            "youtube":"link",
+            "github":"https://github.com/kolniy/todo",
+            "description":"Todo list is an app that allows you to track all of your daily activities by setting up activities,editing and removing them",
+            "technologies":["Javascript", "CSS", "HTML"]
+        },
+        {
+            "project-name":"File Encryption Program",
+            "youtube":"link",
+            "github":"https://github.com/kolniy/file-encryption",
+            "description":"This is a simple console program (or cli tool) that enables you to perform symmetric file encryption.",
+            "technologies":["Javascript"]
+        },
+        {
+            "project-name":"Phaser Simple Game",
+            "youtube":"link",
+            "github":"https://github.com/kolniy/breakout-game",
+            "description":"This a simple phaser game built using phaser3.JS.",
+            "technologies":["Javascript", "CSS", "HTML", "Phaser"]
+        },
+        {
+            "project-name":"Password Generator",
+            "youtube":"link",
+            "github":"https://github.com/kolniy/password-genetor",
+            "description":"Password Generator is an app that allows you to generate random password with some criteria such as uppercase,lowercase,number,symbols, etc",
+            "technologies":["Javascript", "HTML", "CSS"]
+        },
+        {
+            "project-name":"YT Video Downloader",
+            "youtube":"link",
+            "github":"https://github.com/kolniy/youtube-downloader-cli-app",
+            "description":"This is a CLI tool that allows you to download YouTube videos",
+            "technologies":["Node.js", "Javascript"]
+        },
+        {
+            "project-name":"Recipes App",
+            "youtube":"link",
+            "github":"https://github.com/kolniy/recipefy",
+            "description":"Recipe app allows you to search any recipe. It is built using React.js and consumes data from the Spoonacular api",
+            "technologies":["Javascript", "CSS"]
+        },
+        {
+            "project-name":"Weather App",
+            "youtube":"link",
+            "github":"https://github.com/kolniy/weathernyzer",
+            "description":"Weather app is web app that helps users view the current weather in a particular city that they searched. It is built using React.js and consumes data from the openWeather API",
+            "technologies":["Javascript", "CSS", "HTML"]
+        },
+        {
+            "project-name":"QR Code Generator",
+            "youtube":"link",
+            "github":"https://github.com/kolniy/qr-code-generator",
+            "description":"QR code generator is terminal app that helps to create a QR code from the data provided either as image or directly in terminal",
+            "technologies":["Javascript", "Node.js", "Express.js", "EJS"]
+        },
+        {
+            "project-name":"Volunteer Locator App",
+            "youtube":"link",
+            "github":"https://github.com/kolniy/volunteer-locator",
+            "description":"A web application that allows users to find volunteers around them",
+            "technologies":["Javascript", "Node.js", "React.js"]
+        },
+        {
+            "project-name":"Text Sentiment Analyzer",
+            "youtube":"link",
+            "github":"https://github.com/kolniy/sentimental",
+            "description":"Text Sentiment Analyzer is an app built with nodejs anf NLP that allows companies to gain an overview of how their customers feel about the brand",
+            "technologies":["Javascript", "Node.js", "Express.js", "NLP"]
+        },
+        {
+            "project-name":"Image-To-Text Converter",
+            "youtube":"link",
+            "github":"https://github.com/kolniy/text-reader-OCR#project-specifications",
+            "description":"Image to text converter is web app that helps to parse the image and extracts texts in it. It then displays the texts in UI so that you can copy them. It uses OCR technology",
+            "technologies":["Javascript", "Node.js", "Handlebars", "OCR"]
+        },
+        {
+            "project-name":"Language Translator App",
+            "youtube":"link",
+            "github":"https://github.com/kolniy/translator",
+            "description":"This is a web app that allows users to translate texts from one language to another. it uses Google Cloud translate api",
+            "technologies":["Javascript", "Node.js", "Handlebars"]
+        },
+        {
+            "project-name":"Text Extractor",
+            "youtube":"link",
+            "github":"https://github.com/kolniy/PDF-reader",
+            "description":"This is a web application that extracts text from PDF documents by converting the documents to a text format. I built this using Node and Python",
+            "technologies":["Handlebars", "Python", "Node.js"]
+        },
+        {
+            "project-name":"BMI Calculator",
+            "youtube":"link",
+            "github":"https://github.com/kolniy/BMI-calc",
+            "description":"This is a very simple mobile app for calculating your BMI. I built this using React Native and expo.",
+            "technologies":["Javascript", "EXPO"]
+        }
+      ]
+    },
+    {
       "name": "Tuyizere Anastase",
       "picture": "link",
       "role":"Software Engineer", 
