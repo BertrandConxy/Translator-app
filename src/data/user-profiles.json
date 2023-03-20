@@ -107,6 +107,113 @@
       ]
     },
     {
+      "name": "Chance Desire IRADUKUNDA",
+      "picture": "link",
+      "role":"Software Engineer", 
+      "bio":"",
+      "location": "Rwanda",
+      "projects": [
+        {
+            "project-name":"React Todo-list",
+            "youtube":"link",
+            "github":"https://github.com/chanceDira/todo-challenge",
+            "description":"Todo list is an app that allows you to track all of your daily activities by setting up activities,editing and removing them",
+            "technologies":["Javascript", "CSS", "HTML"]
+        },
+        {
+            "project-name":"Phaser Simple Game",
+            "youtube":"link",
+            "github":"https://github.com/chanceDira/Juggle-PhaserJS",
+            "description":"This a short and simple game built using phaser3 JS.",
+            "technologies":["Javascript", "Phaser"]
+        },
+        {
+            "project-name":"Rock-paper Scissors App",
+            "youtube":"link",
+            "github":"https://github.com/chanceDira/rock-scissors-paper",
+            "description":"Game of the rock-scissors-paper.It works in the following way: Stone wins over scissors because stone is hard and cannot be cut with scissors. Scissors win over paper because scissors can cut paper. Paper wins over stone because paper can wrap stone.",
+            "technologies":["Javascript"]
+        },
+        {
+            "project-name":"React Pomodoro Timer",
+            "youtube":"link",
+            "github":"https://github.com/chanceDira/pomodoro-app",
+            "description":"The Pomodoro Technique is a time management method based on 25-minute stretches of focused work broken by five-minute breaks.",
+            "technologies":["Javascript", "Webpack", "Tailwind", "HTML"]
+        },
+        {
+            "project-name":"Quotes Generator",
+            "youtube":"link",
+            "github":"https://github.com/chanceDira/quote-generator",
+            "description":"Quotes Generator is an app that allows you to generate random quotes and you can tweet them.",
+            "technologies":["Javascript","HTML", "CSS"]
+        },
+        {
+            "project-name":"YT Video Downloader",
+            "youtube":"link",
+            "github":"https://github.com/chanceDira/chance-youtube-downloader",
+            "description":"This is a web app that allows you to download YouTube videos",
+            "technologies":["Node.js", "Javascript", "Tailwind"]
+        },
+        {
+            "project-name":"Weather App",
+            "youtube":"link",
+            "github":"https://github.com/chanceDira/weather-app",
+            "description":"Weather app is web app that helps users view the current weather in a particular city that they searched. It is built using React.js and consumes data from the openWeather API",
+            "technologies":["Javascript", "CSS", "HTML"]
+        },
+        {
+            "project-name":"QR Code Generator",
+            "youtube":"link",
+            "github":"https://github.com/chanceDira/qr-code-generator",
+            "description":"QR code generator is terminal app that helps to create a QR code from the data provided either as image or directly in terminal",
+            "technologies":["Javascript", "Node.js", "Express.js", "EJS"]
+        },
+        {
+            "project-name":"Chat App",
+            "youtube":"link",
+            "github":"https://github.com/chanceDira/chat-app-challenge",
+            "description":"A simple chatroom application built using Express JS and Socket.io",
+            "technologies":["Javascript", "Node.js", "Socket.io"]
+        },
+        {
+            "project-name":"Text Extractor",
+            "youtube":"link",
+            "github":"https://github.com/chanceDira/pdf-text-extract",
+            "description":"This is a web application that extracts text from PDF documents by converting the documents to a text format. I built this using Node and Python",
+            "technologies":["Javascript", "Python", "Node.js"]
+        },
+        {
+            "project-name":"Image-To-Text Converter",
+            "youtube":"link",
+            "github":"https://github.com/chanceDira/image-doc-extractor-ai",
+            "description":"Image to text converter is web app that helps to parse the image and extracts texts in it. It then displays the texts in UI so that you can copy them. It uses OCR technology",
+            "technologies":["Javascript", "Node.js", "Express.js", "OCR"]
+        },
+        {
+            "project-name":"GitHub Authentication Service App",
+            "youtube":"link",
+            "github":"https://github.com/chanceDira/gate-code-app",
+            "description":"This is a simple web app that lets users sign up, login, logout, with GitHub. It is built with Next.js and Node.js.",
+            "technologies":["Javascript", "Next.js", "Node.js"]
+        },
+        {
+            "project-name":"Sudoku Solver App",
+            "youtube":"link",
+            "github":"https://github.com/chanceDira/sudoku-solver",
+            "description":"This is an app that displays Sudoku board with an option to auto-solve",
+            "technologies":["Javascript", "Python", "Node.js"]
+        },
+        {
+            "project-name":"BMI Calculator",
+            "youtube":"link",
+            "github":"https://github.com/chanceDira/bmi-calculator-mobile",
+            "description":"This is a very simple mobile app for calculating your BMI. I built this using React Native and expo.",
+            "technologies":["Javascript", "EXPO"]
+        }
+      ]
+    },
+    {
       "name": "Kolawole Olaniyi",
       "picture": "link",
       "role":"Software Engineer", 
