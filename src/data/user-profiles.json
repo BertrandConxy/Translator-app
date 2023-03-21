@@ -278,7 +278,7 @@
         },
         {
             "projectName":"Chat App",
-            "youtube":"link",
+            "youtube":"https://www.youtube.com/watch?v=LOkq2ZCYF6o",
             "github":"https://github.com/chanceDira/chat-app-challenge",
             "description":"A simple chatroom application built using Express JS and Socket.io",
             "technologies":["Javascript", "Node.js", "Socket.io"]
